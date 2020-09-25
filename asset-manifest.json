@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa08e655.chunk.css",
+    "main.js": "/static/js/main.0eba502d.chunk.js",
+    "main.js.map": "/static/js/main.0eba502d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e9877b13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e9877b13.js.map",
+    "static/css/2.40a775a0.chunk.css": "/static/css/2.40a775a0.chunk.css",
+    "static/js/2.431c0533.chunk.js": "/static/js/2.431c0533.chunk.js",
+    "static/js/2.431c0533.chunk.js.map": "/static/js/2.431c0533.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6f844e52939dde668d213fe475a3cfd.js": "/precache-manifest.a6f844e52939dde668d213fe475a3cfd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.40a775a0.chunk.css.map": "/static/css/2.40a775a0.chunk.css.map",
+    "static/css/main.fa08e655.chunk.css.map": "/static/css/main.fa08e655.chunk.css.map",
+    "static/js/2.431c0533.chunk.js.LICENSE.txt": "/static/js/2.431c0533.chunk.js.LICENSE.txt",
+    "static/media/bungalows.jpg": "/static/media/bungalows.c96db41d.jpg",
+    "static/media/cottage.jpg": "/static/media/cottage.3166e3e0.jpg",
+    "static/media/empty-lounges.jpg": "/static/media/empty-lounges.fc6b466d.jpg",
+    "static/media/person.jpg": "/static/media/person.32f88636.jpg",
+    "static/media/red-ham.jpg": "/static/media/red-ham.56b485bc.jpg",
+    "static/media/sand-bars.jpg": "/static/media/sand-bars.88592725.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9877b13.js",
+    "static/css/2.40a775a0.chunk.css",
+    "static/js/2.431c0533.chunk.js",
+    "static/css/main.fa08e655.chunk.css",
+    "static/js/main.0eba502d.chunk.js"
+  ]
+}
